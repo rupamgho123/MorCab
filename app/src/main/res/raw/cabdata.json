@@ -1,0 +1,21 @@
+{
+  "cab_data" : [
+    {
+      "name" : "Ola Cabs",
+      "app_link" : "market://details?id=com.olacabs.customer&hl=en"
+    },
+    {
+      "name" : "Zeng Cabs",
+      "phone_number" : "9999999999",
+      "app_link" : "market://details?id=com.olacabs.customer&hl=en"
+    },
+    {
+      "name" : "OlaZeng Cabs",
+      "phone_number" : "8888888888"
+    },
+    {
+      "name" : "ZengOla Cabs",
+      "phone_number" : "7777777777"
+    }
+  ]
+}
