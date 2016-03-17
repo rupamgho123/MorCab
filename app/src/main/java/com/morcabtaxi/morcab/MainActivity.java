@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     AdView mAdView = (AdView) findViewById(R.id.adView);
     AdRequest adRequest = new AdRequest.Builder()
         .setIsDesignedForFamilies(true)
+        .addTestDevice("0000000000000000")
         .build();
     mAdView.loadAd(adRequest);
   }
