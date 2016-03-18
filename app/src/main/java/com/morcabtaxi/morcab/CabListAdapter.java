@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
+import com.morcabtaxi.morcab.models.CabData;
 import java.lang.ref.WeakReference;
 import java.util.List;
 
@@ -25,6 +26,7 @@ public class CabListAdapter extends RecyclerView.Adapter<CabListAdapter.ViewHold
   public CabListAdapter(Activity activity){
     cabs = AppUtils.getCabData(activity).getCabData();
     activityWeakReference = new WeakReference(activity);
+
   }
 
   @Override public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {

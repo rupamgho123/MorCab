@@ -1,4 +1,4 @@
-package com.morcabtaxi.morcab;
+package com.morcabtaxi.morcab.models;
 
 import lombok.Data;
 
