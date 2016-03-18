@@ -1,21 +1,37 @@
 {
   "cab_data" : [
     {
+      "name" : "Prime Cabs",
+      "phone_number" : "03612222233"
+    },
+    {
       "name" : "Ola Cabs",
       "app_link" : "market://details?id=com.olacabs.customer"
     },
     {
-      "name" : "Zeng Cabs",
-      "phone_number" : "9999999999",
-      "app_link" : "market://details?id=com.olacabs.customer"
+      "name" : "My Taxi",
+      "phone_number" : "03612228888",
+      "app_link" : "market://details?id=com.hanker.mytaxi"
     },
     {
-      "name" : "OlaZeng Cabs",
-      "phone_number" : "8888888888"
+      "name" : "Green Cabs",
+      "phone_number" : "03617151515"
     },
     {
-      "name" : "ZengOla Cabs",
-      "phone_number" : "7777777777"
+      "name" : "Pristine Cabs",
+      "phone_number" : "07575999119"
+    },
+    {
+      "name" : "Swiss Cabs",
+      "phone_number" : "09613131313"
+    },
+    {
+      "name" : "RT Cabs",
+      "phone_number" : "03612228822"
+    },
+    {
+      "name" : "Iris Cabs",
+      "app_link" : "market://details?id=iris.amit.irisbooking"
     }
   ]
 }
